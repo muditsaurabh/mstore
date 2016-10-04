@@ -6,7 +6,7 @@ import { ItemDetailsPage } from '../product-details/product-details';
 
 
 @Component({
-  templateUrl: 'list.html'
+  templateUrl: './product-list.html'
 })
 export class ListPage {
   selectedItem: any;
